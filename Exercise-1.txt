@@ -1,0 +1,16 @@
+1.implement One-To-One Mapping by using Student ,Laptop entityes
+-craete entity class Student with bellow variable.
+	A.std_id;
+	B.std_name;
+	C.std_laptops;
+
+-craete entity class Laptop with bellow variable.
+	A.lid;
+	B.lname;
+	C.lprice;
+	
+
+
+1.insert valus into student table
+2.insert valus into laptop table
+3.implement One-To-One Maping between these two.
